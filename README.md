@@ -1,5 +1,4 @@
-# <a href='http://maskit.nl'>
-   alt='joomla logo'/></a> A geweldig cursus op Github                               
+# A geweldig cursus op Github                               
 ## leren Github
   in deze cursus
   
